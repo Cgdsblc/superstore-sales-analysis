@@ -38,26 +38,26 @@ This project focuses on the analysis of the Superstore Sales dataset, aiming to 
 
 ## Results
 
-Key findings and results are summarized in the respective analysis sections.
-Detailed visualizations can be explored in the provided visualization files.
+- Key findings and results are summarized in the respective analysis sections.
+- Detailed visualizations can be explored in the provided visualization files.
 
 ## GitHub Repository
 
-(https://github.com/Cgdsblc/superstore-sales-analysis)
+- (https://github.com/Cgdsblc/superstore-sales-analysis)
 
 ## How to Use
 
-Clone this repository to your local machine.
-Open the Jupyter Notebook to view the Python code and visualizations.
-Execute SQL queries in your preferred SQL environment using the provided queries.
+- Clone this repository to your local machine.
+- Open the Jupyter Notebook to view the Python code and visualizations.
+- Execute SQL queries in your preferred SQL environment using the provided queries.
 
 ## Future Steps
 
-The analysis could be extended by integrating additional datasets or refining visualizations.
-Further exploration into customer segments and personalized marketing strategies.
+- The analysis could be extended by integrating additional datasets or refining visualizations.
+- Further exploration into customer segments and personalized marketing strategies.
 
 ## Challenges Faced
 
-Challenges related to data quality and missing values were addressed during the data cleaning process.
+- Challenges related to data quality and missing values were addressed during the data cleaning process.
 
 Feel free to explore, analyze, and provide feedback!
