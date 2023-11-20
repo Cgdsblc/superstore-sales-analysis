@@ -13,9 +13,9 @@ This project focuses on the analysis of the Superstore Sales dataset, aiming to 
 
 ## Tools and Languages Used
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-SQLite
-Tableau
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQLite
+- Tableau
 
 # Steps
 
