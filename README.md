@@ -43,7 +43,7 @@ This project focuses on the analysis of the Superstore Sales dataset, aiming to 
 
 ## GitHub Repository
 
-- (https://github.com/Cgdsblc/superstore-sales-analysis)
+https://github.com/Cgdsblc/superstore-sales-analysis
 
 ## How to Use
 
