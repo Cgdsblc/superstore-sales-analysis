@@ -4,13 +4,12 @@
 
 This project focuses on the analysis of the Superstore Sales dataset, aiming to uncover insights into customer spending patterns. The analysis involves data cleaning, exploration, and visualization using Python, as well as SQL queries and Tableau. The goal is to identify customer segments based on their spending behavior and create visualizations to better understand sales trends.
 
-
 ## Project Structure
 
-data/: Folder containing the World Happiness Report dataset (CSV, XLS and DB files).
-notebooks/: Jupyter Notebook with Python (+SQL) codes for data analysis.
-tableau/: Tableau Workbook (.twbx) file for interactive dashboards.
-visualization/: Visualization file for the graphs and the dashboard.
+- `data/`: Folder containing the Superstore Sales dataset (CSV, XLS and DB files).
+- `notebooks/`: Jupyter Notebook with Python (+ SQL) codes for data analysis.
+- `tableau/`: Tableau Workbook (.twbx) file for interactive dashboards.
+- `visualization/`: Visualization file for the graphs and the dashboard.
 
 ## Tools and Languages Used
 
@@ -36,7 +35,6 @@ Explored customer segments and spending patterns.
 Connected to the dataset in Tableau.
 Explored data visually using sheets.
 Created dashboards to showcase analyses.
-
 
 ## Results
 
