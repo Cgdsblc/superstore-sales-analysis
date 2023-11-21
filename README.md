@@ -8,7 +8,7 @@ This project focuses on the analysis of the Superstore Sales dataset, aiming to 
 
 - `data/`: Folder containing the Superstore Sales dataset (CSV, XLS and DB files).
 - `notebooks/`: Jupyter Notebook with Python (+ SQL) codes for data analysis.
-- `tableau/`: Tableau Workbook (.twbx) file for interactive dashboards.
+- `tableau/`: Tableau Workbook (only .png, neither .twbx nor .pdf) file for the dashboard.
 - `visualization/`: Visualization file for the graphs and the dashboard.
 
 ## Tools and Languages Used
@@ -36,6 +36,8 @@ This project focuses on the analysis of the Superstore Sales dataset, aiming to 
 - Explored data visually using sheets.
 - Created dashboards to showcase analyses.
 
+<img width="990" alt="Tableau - Superstore Sales Analysis" src="https://github.com/Cgdsblc/superstore-sales-analysis/assets/66783609/b235bde9-aa40-43f2-82b0-fb5cfe6ef4ab">
+
 ## Results
 
 - Key findings and results are summarized in the respective analysis sections.
@@ -59,5 +61,6 @@ https://github.com/Cgdsblc/superstore-sales-analysis
 ## Challenges Faced
 
 - Challenges related to data quality and missing values were addressed during the data cleaning process.
+- Challenges faced while saving the Tableau Dashboard. Tableau Public saving is crashed while trying to cancel after a long time waiting. Therefore, there are not .twbx or .pdf format in the tableau folder, only Dashboard ss as .png format.
 
 Feel free to explore, analyze, and provide feedback!
